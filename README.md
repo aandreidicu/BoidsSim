@@ -7,3 +7,5 @@ As with most artificial life simulations, Boids is an example of emergent behavi
 * alignment: steer towards the average heading of local flockmates
 * cohesion: steer to move towards the average position (center of mass) of local flockmates
 More complex rules can be added, such as obstacle avoidance and goal seeking.
+
+I also used a song in the background: backgroundm, in case of error.
